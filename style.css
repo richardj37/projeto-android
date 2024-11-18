@@ -69,6 +69,8 @@ nav{
 }
 
 nav>a{  
+    display: inline-flex;
+    justify-content: space-between;
     border-radius: 3px;
     padding: 10px;
     color: white;
